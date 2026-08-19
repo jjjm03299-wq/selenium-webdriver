@@ -1,0 +1,17 @@
+{
+  "name": "selenium-webdriver",
+  "version": "1.0.0",
+  "description": "CLI tool to download and run Selenium WebDriver PHP script",
+  "bin": {
+    "selenium-webdriver": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "author": "Jejej",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjjm03299-wq/selenium-webdriver"
+  }
+}
