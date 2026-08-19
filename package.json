@@ -1,9 +1,9 @@
 {
-  "name": "selenium-webdriver",
+  "name": "selenium-webdriver-tool",
   "version": "1.0.0",
   "description": "CLI tool to download and run Selenium WebDriver PHP script",
   "bin": {
-    "selenium-webdriver": "./cli.js"
+    "selenium-webdriver-tool": "./cli.js"
   },
   "scripts": {
     "start": "node cli.js"
