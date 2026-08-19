@@ -20,9 +20,9 @@ switch (command) {
   case 'help':
   case '--help':
     console.log(`
-Project: selenium-webdriver
+Project: selenium-webdriver-tool
 
-Usage: selenium-webdriver <command> [options]
+Usage: selenium-webdriver-tool <command> [options]
 
 Commands:
   download       Download selenium.php from GitHub
@@ -33,7 +33,7 @@ Commands:
     break;
 
   case '--version':
-    console.log('selenium-webdriver CLI version 1.0.0');
+    console.log('selenium-webdriver-tool CLI version 1.0.0');
     break;
 
   default:
